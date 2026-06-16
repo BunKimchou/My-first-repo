@@ -1,1 +1,1 @@
-Hello World, this is my first Git project!
+This is my new project description for my engineering assignment!
