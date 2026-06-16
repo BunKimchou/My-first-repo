@@ -12,7 +12,7 @@ int main(){
     cin>>Id;
     cout<<"======================Menu==========================="<<endl;
     cout<<"1.Chocolate"<<endl;
-    cout<<"2.Chip"<<endl;
+    cout<<"2.Chips"<<endl;
     cout<<"3.Milk"<<endl;
     cout<<"4.Ice-Cream"<<endl;
     cout<<"==========================="<<endl;
