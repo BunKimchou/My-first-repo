@@ -43,7 +43,7 @@ int main(){
     cout<<"\033[31mInvalid option\033[0m"<<endl;
         break;
     }
-    cout<<"\033[34m=========Invoice===========\033[0m"<<endl;
+    cout<<"\033[34m=========Receipt===========\033[0m"<<endl;
     cout<<"Name: "<<name<<endl;
     cout<<"ID: "<<Id<<endl;
     cout<<"\033[34m............................\033[0m"<<endl;
